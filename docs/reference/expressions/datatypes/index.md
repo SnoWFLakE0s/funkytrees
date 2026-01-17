@@ -17,11 +17,11 @@ Numbers represent quantitative values and include both integers and floating-poi
 ## Booleans
 Booleans represent logic states and are primarily used for conditional statements, toggles, and binary activation groups.
 
-* **Literal Values**: `true`, `false`.
-* **Numeric Conversion**: When evaluated in a numeric context (in conjunction with number-type data), booleans automatically convert to specific integer values:
-    * `true` evaluates to `1`.
-    * `false` evaluates to `-1`.
-* **Behavior**: Booleans maintain their literal `true`/`false` states when evaluated independently of other data types.
+* **Literal Values**: `True`, `False`.
+* **Numeric Conversion**: Booleans are dynamically typed in Funky Trees. When evaluated in a numeric context (in conjunction with number-type data), booleans automatically convert to specific integer values:
+    * `True` evaluates to `1`.
+    * `False` evaluates to `-1`.
+* **Behavior**: Booleans maintain their literal `True`/`False` states when evaluated independently of other data types.
 
 ## Strings
 Strings are sequences of alphanumeric characters representing text data.

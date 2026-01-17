@@ -5,3 +5,10 @@ baseurl: ""
 url: "https://snowflake0s.github.io/"
 favicon_ico: "/assets/images/favicon.ico"
 color_scheme: dark
+
+# External navigation links
+nav_external_links:
+  - title: Contribute or Report Issues
+    url: https://github.com/SnoWFLakE0s/funky-docs
+    hide_icon: false
+    opens_in_new_tab: true
