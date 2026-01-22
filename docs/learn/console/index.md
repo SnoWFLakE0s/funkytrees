@@ -2,11 +2,13 @@
 title: Using the Input Dialog or the Console Debugger
 layout: default
 parent: Learn
-nav_order: 2
+nav_order: 6
 ---
-# Using the Input Dialog or the Console Debugger
+# Using the Console Debugger
 #### How to enter, test, and debug expressions in-game.
 ---
+`**[NOT YET REWRITTEN, TO BE REWORKED FOR CRAFT-BASED TUTORIAL]**`
+
 
 Implementing Funky Trees requires using the internal tools provided by the simulation environment.
 
