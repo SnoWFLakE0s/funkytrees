@@ -5,11 +5,13 @@ parent: Documentation
 ---
 
 # Learn Funky Trees
+#### A general guide about the basics of the scripting language in SimplePlanes.
+---
 
-Funky Trees is an very interesting programming language built for SimplePlanes. Its structure lends itself well to the intended use case of real time control (RTC) and other automation processes for various devices within the SimplePlanes game, allowing for creating very powerful and effective control flows for your crafts. Funky Tree's simple and straightforward syntax along with its repeated-loop execution, make it ideal for sequencing, dynamic control, and automation with full support on all platforms.
+Funky Trees (commonly referred to as "FT" or "Funky") is the standardized programming language built into SimplePlanes and SimplePlanes 2. It provides a powerful set of features that allow the player to create much more complex control and input systems, far exceeding the limitations of the basic "direct control" inputs (Throttle, Pitch, Roll, Yaw, et cetera).
 
-This tutorial introduces the reader informally to the basic concepts and features of the Funky Trees language and system. It helps to have SimplePlanes open and ready for hands-on experience, but all examples are self-contained, so the tutorial can be read offline as well.
+This unofficial guide is intended to introduce the basic concepts and principles of Funky Trees via a series of walk-through demonstrations using an [example craft](./examplecraft/). It is not intended to be all-encompassing, and the examples it provides will not be ideal for every situation. However, these examples may easily be adapted or expanded upon for your own creations.
 
-For a more detailed description of available features, refer to the Funky Trees Reference Documents. They contain the full documentation of all features, behaviors, and attributes of the language.
+This guide is written for *both* **SimplePlanes 1** and **SimplePlanes 2.** Any relevant differences between the two games are noted where necessary, but the content of the guide is applicable to both games.
 
-This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Funky Trees' most noteworthy features, and will give you a good idea of the style of the language. However, after reading it, you should be able to read and write generic simple FT code, and most certainly poised to learn more.
+For more detailed documentation and a full list of the features available in Funky Trees, refer to the [Reference](../docs/reference/) section of this guide.

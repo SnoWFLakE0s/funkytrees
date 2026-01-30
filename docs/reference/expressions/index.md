@@ -12,7 +12,7 @@ Expressions are strings of code used to define the behavior of aircraft parts. A
 ## Data Types
 Defines the three categories of values supported by the system: Numbers, Booleans, and Strings. Understanding data types is critical for ensuring compatible operations and predictable evaluation results.
 
-See [Data Types](/funky-docs/docs/reference/expressions/datatypes/) for details.
+See [Data Types](/funkytrees/docs/reference/expressions/datatypes/) for details.
 
 ## Operators
 Defines the symbols used to perform computations and logic within an expression. This includes arithmetic calculations, numerical comparisons, boolean logic, and conditional selection.
