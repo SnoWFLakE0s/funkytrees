@@ -27,7 +27,7 @@ In craft XML files, Input Controllers are defined within the `<InputController.S
 An InputController has the following attributes: 
 
 | Attribute | Type | Description | Example |
-| `activationGroup` | Number/Boolean | See the [page on activation groups](/funky-docs/docs/reference/interfaces/activationgroup/). | `Activate1` |
+| `activationGroup` | Number/Boolean | See the [page on activation groups](../activationgroup/). | `Activate1` |
 | `invert` | Boolean | This will determine the direction the value in the `input` is applied to the part. Either `true` or `false`. | `true` |
 | `min` | Number | The lower input range mapping value. | `0` |
 | `max` | Number | The upper input range mapping value. | `1` |
@@ -35,7 +35,7 @@ An InputController has the following attributes:
 
 It is important to note that while `min` and `max` may appear to be range clamping properties, they actually map the input of the controller. The controller will map the `input` value from `[-1, 1]` to `[min, max]`. For example, given a input of `1`, the actual output passed to the part is `1 * max`.[^2]
 
-It is recommended that if you need to achieve a clamped input, you achieve that *within* the `input` by using the [`clamp()`](/funky-docs/docs/reference/functions/clamp/) or [`clamp01()`](/funky-docs/docs/reference/functions/clamp01/) functions.
+It is recommended that if you need to achieve a clamped input, you achieve that *within* the `input` by using the [`clamp()`](../../functions/clamp/) or [`clamp01()`](../../functions/clamp01/) functions.
 
 ___
 

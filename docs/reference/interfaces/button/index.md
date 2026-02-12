@@ -9,10 +9,10 @@ nav_order: 4
 #### Technical reference for buttons.
 ---
 
-Buttons are an mouse-interactable component that has the ability to write to both [input variables](/funky-docs/docs/reference/variables/builtin/input/) and [custom variables](/funky-docs/docs/reference/variables/custom/). They are independent from the standard part variables system.
+Buttons are an mouse-interactable component that has the ability to write to both [input variables](../../variables/builtin/input/) and [custom variables](../../variables/custom/). They are independent from the standard part variables system.
 
 ## Syntax
-In craft XML files, buttons are defined by the attribute `PartType="Button-1"` in the `<Part>` element. It has 2 child elements, `<Button.State>` and `<Label.State>`. This article will only cover `<Button.State>`. For the label tag, see the [label section](/docs/reference/interfaces/label/).
+In craft XML files, buttons are defined by the attribute `PartType="Button-1"` in the `<Part>` element. It has 2 child elements, `<Button.State>` and `<Label.State>`. This article will only cover `<Button.State>`. For the label tag, see the [label section](../label/).
 
 ```xml
 <Button.State inputId="VariableName" style="StyleType" lightStrength="Number" interactionType="TypeName" outputValue="Output" />
