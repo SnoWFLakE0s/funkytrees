@@ -11,10 +11,10 @@ This reference guide provides the technical specifications for the Funky Trees l
 
 ## Core Documentation
 
-### [Functions](/funky-docs/docs/reference/functions/)
+### [Functions](./functions/)
 Detailed listings of all mathematical and logical operators available, including trigonometric functions, PID controllers, and signal processing tools.
 
-### [Variables](/funky-docs/docs/reference/variables/)
+### [Variables](./variables/)
 Technical data on the various information sources available to expressions.
 * **Built-in Variables**: Standard flight telemetry and user input data provided by the simulation engine.
 * **Custom Variables**: User-defined global variables and part-specific local data outputs.

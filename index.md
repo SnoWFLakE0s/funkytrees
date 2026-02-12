@@ -8,7 +8,7 @@ nav_order: 1
 
 Welcome! This is the unofficial, community-powered documentation for Funky Trees, version 1.12.128.0.
 
-If you're new, maybe head over to the [Learn](/funky-docs/docs/learn/) section, or if you're just looking to quickly check something, the [Reference](/funky-docs/docs/reference/) page might be what you're looking for.
+If you're new, maybe head over to the [Learn](./docs/learn) section, or if you're just looking to quickly check something, the [Reference](./docs/reference/) page might be what you're looking for.
 
 ## About this webpage
 
