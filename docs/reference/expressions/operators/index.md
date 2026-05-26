@@ -20,7 +20,7 @@ Arithmetic operators perform standard algebraic calculations. Mathematical opera
 | `%` | Modulo | Divides the first number by the second, then returns the remainder. |
 | `( )` | Grouping | Groups statements to define the order of evaluation; operations inside parentheses are performed first. |
 
-**Note**: Implied multiplication, such as `(a)(b)`, is not supported; the `*` operator must be used explicitly.
+> **Note**: Implied multiplication, such as `(a)(b)`, is not supported; the `*` operator must be used explicitly.
 
 ## Comparison Operators
 Comparison operators evaluate the relationship between two numerical values (or number-converted booleans) and return a boolean result (`true` or `false`).
@@ -51,3 +51,5 @@ The selection operator allows for inline conditional logic based on a boolean co
 | Symbol | Operation | Syntax | Description |
 | :--- | :--- | :--- | :--- |
 | `? :` | Ternary Selection | `a ? b : c` | Evaluates condition `a`. If `a` is `true`, it returns value `b`. If `a` is `false`, it returns value `c`. |
+
+> The selection operator behaves similarly to an "If-Then-Else" statement.
