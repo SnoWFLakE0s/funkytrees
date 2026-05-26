@@ -1,8 +1,7 @@
 ---
 title: Operators
 layout: default
-parent: Expressions
-nav_order: 2
+parent: Reference
 ---
 # Operators
 #### Technical reference for mathematical and logical operators used in Funky Trees expressions.
@@ -52,4 +51,4 @@ The selection operator allows for inline conditional logic based on a boolean co
 | :--- | :--- | :--- | :--- |
 | `? :` | Ternary Selection | `a ? b : c` | Evaluates condition `a`. If `a` is `true`, it returns value `b`. If `a` is `false`, it returns value `c`. |
 
-> The selection operator behaves similarly to an "If-Then-Else" statement.
+The selection operator behaves similarly to an "If-Then-Else" statement.

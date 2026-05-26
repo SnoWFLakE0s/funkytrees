@@ -22,6 +22,6 @@ On a general level, Funky Trees is essentially a way to choose what you want to 
 
 ## Expression Types
 Funky Trees uses **three primary expression types**. Every element and expression in any Funky Trees formula can be categorized as one of these three types:
-* [Variables](../../reference/expressions/variables/)
-* [Functions](../../reference/expressions/functions/)
-* [Operators](../../reference/expressions/operators/)
+* [Variables](../../reference/variables/)
+* [Functions](../../reference/functions/)
+* [Operators](../../reference/operators/)

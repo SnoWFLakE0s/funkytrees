@@ -17,5 +17,3 @@ Funky Trees is a *functional programming* language, which means that every expre
 As you can probably already tell (even if only from the quantity and volume of this documentation), Funky Trees can be immensely powerful if you know how to use it to the fullest. However, with great power comes great complexity, and it is easy to get overwhelmed. Fortunately, Funky Trees can also be used for many things that involve much simpler programming, and these provide a good starting point for learning how the language can be used even if you have no prior programming experience.
 
 The tutorials and explanations in this guide assume a working understanding of algebra and trigonometry. Some advanced Funky Trees formulas require knowledge of calculus to properly understand and implement, but this guide is focused on the basics.
-
-**Before continuing, note that this guide makes extensive use of terms and abbreviations that may be unfamiliar to new players.  Refer to the [Key Terms and Definitions](../definitions/) page for explanations of these terms.**

@@ -11,17 +11,24 @@ This reference guide provides the technical specifications for the Funky Trees l
 
 ## Core Documentation
 
+### [Data Types](./datatypes/)
+Documentation on the core data types supported in Funky Trees.
+
 ### [Functions](./functions/)
-Detailed listings of all mathematical and logical operators available, including trigonometric functions, PID controllers, and signal processing tools.
+Documentation on all mathematical and logical functions available, including trigonometric functions, logic functions, and real-time control tools.
+
+### [Interfaces](./interfaces/)
+Documentation on interfaces through which Funky Trees can be used. See this section if you need to find what fields support FT inputs.
+
+### [Operators](./operators/)
+Documentation on the core math and logic operators supported in Funky Trees.
 
 ### [Variables](./variables/)
-Technical data on the various information sources available to expressions.
-* **Built-in Variables**: Standard flight telemetry and user input data provided by the simulation engine.
-* **Custom Variables**: User-defined global variables and part-specific local data outputs.
+Documentation on the various information sources available. These include both built-in telemetry and custom defined variables.
 
-## Language Fundamentals
+## Misc Notes
 
-* **Mathematical Logic**: Standard arithmetic operators and Boolean logic are supported to create complex conditional statements.
-* **Unit Standards**: Unless otherwise specified, the system utilizes SI units (Meters, Seconds, Newtons) and degrees for angular measurements.
-* **Case Sensitivity**: Both function names and variable names are strictly case-sensitive.
-* **Performance**: All expressions are evaluated per-frame. The update frequency is directly tied to the game's physics quality setting.
+* Standard arithmetic operators and Boolean logic are supported to create complex conditional statements.
+* Unless otherwise specified, the system utilizes SI units (Meters, Seconds, Newtons) and degrees for angular measurements.
+* Both function names and variable names are strictly case-sensitive.
+* All expressions are evaluated per-frame. The update frequency is directly tied to the game's physics quality setting.
