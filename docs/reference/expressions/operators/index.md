@@ -16,7 +16,8 @@ Arithmetic operators perform standard algebraic calculations. Mathematical opera
 | `+` | Addition | Adds numerical values or concatenates two strings (e.g., `"He" + "llo"` results in `"Hello"`). |
 | `-` | Subtraction | Subtracts numerical values or denotes a negative sign. |
 | `*` | Multiplication | Multiplies two numerical values. |
-| `/` | Division | Divides the first numerical value by the second. |
+| `/` | Division | Divides the first number by the second. |
+| `%` | Modulo | Divides the first number by the second, then returns the remainder. |
 | `( )` | Grouping | Groups statements to define the order of evaluation; operations inside parentheses are performed first. |
 
 > **Note**: Implied multiplication, such as `(a)(b)`, is not supported; the `*` operator must be used explicitly.

@@ -19,4 +19,4 @@ All functions utilize a standardized call structure:
 
 ## Function Categories
 
-Common mathematical functions include [abs()](/funky-docs/docs/reference/functions/abs/), [sin()](/funky-docs/docs/reference/functions/sin/), [cos()](/funky-docs/docs/reference/functions/cos/), [clamp()](/funky-docs/docs/reference/functions/clamp/), and many others available in the complete reference.
+Common mathematical functions include [abs()](./abs/), [sin()](./sin/), [cos()](./cos/), [clamp()](./clamp/), and many others available in the complete reference.
