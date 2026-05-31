@@ -10,7 +10,7 @@ nav_order: 1
 
 Welcome! This is the unofficial, community-powered documentation and wiki for Funky Trees.
 
-If you're new, maybe head over to the [Learn](./docs/learn) section, or if you're just looking to quickly check something, the [Reference](./docs/reference/) page might be what you're looking for.
+For quick lookup of various Funky Trees information, see the [Reference](./docs/reference/) page. If you're new and would like to learn Funky Trees through a series of lessons, head over to the [Learn](./docs/learn) section. 
 
 ## About this webpage
 

@@ -2,6 +2,7 @@
 title: Reference
 layout: default
 parent: Documentation
+nav_order: 1
 ---
 # Reference
 #### The complete technical documentation for the Funky Trees language.

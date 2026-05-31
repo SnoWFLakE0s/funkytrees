@@ -2,6 +2,7 @@
 title: Learn
 layout: default
 parent: Documentation
+nav_order: 2
 ---
 
 # Learn Funky Trees
