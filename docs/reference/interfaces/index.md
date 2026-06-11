@@ -2,6 +2,7 @@
 title: Interfaces
 layout: default
 parent: Reference
+nav_order: 5
 ---
 # Interfaces
 #### Technical reference for Funky Trees interfaces.

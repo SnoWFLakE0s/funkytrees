@@ -2,6 +2,7 @@
 title: Functions
 layout: default
 parent: Reference
+nav_order: 4
 ---
 # Functions
 #### Technical reference for the built-in functional library of the Funky Trees expression language.

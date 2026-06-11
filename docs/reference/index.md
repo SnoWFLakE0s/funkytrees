@@ -15,17 +15,17 @@ This reference guide provides the technical specifications for the Funky Trees l
 ### [Data Types](./datatypes/)
 Documentation on the core data types supported in Funky Trees.
 
-### [Functions](./functions/)
-Documentation on all mathematical and logical functions available, including trigonometric functions, logic functions, and real-time control tools.
-
-### [Interfaces](./interfaces/)
-Documentation on interfaces through which Funky Trees can be used. See this section if you need to find what fields support FT inputs.
-
 ### [Operators](./operators/)
 Documentation on the core math and logic operators supported in Funky Trees.
 
 ### [Variables](./variables/)
 Documentation on the various information sources available. These include both built-in telemetry and custom defined variables.
+
+### [Functions](./functions/)
+Documentation on all mathematical and logical functions available, including trigonometric functions, logic functions, and real-time control tools.
+
+### [Interfaces](./interfaces/)
+Documentation on interfaces through which Funky Trees can be used. See this section if you need to find what fields support FT inputs.
 
 ## Misc Notes
 

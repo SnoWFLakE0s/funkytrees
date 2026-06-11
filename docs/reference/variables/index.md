@@ -2,6 +2,7 @@
 title: Variables
 layout: default
 parent: Reference
+nav_order: 3
 ---
 # Variables
 #### Technical reference for variable data sources in the Funky Trees language.

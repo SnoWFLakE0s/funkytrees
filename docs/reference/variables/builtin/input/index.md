@@ -3,6 +3,7 @@ title: Input Variables
 layout: default
 parent: Built-in Variables
 grand_parent: Variables
+nav_order: 3
 ---
 # Input Variables
 #### Technical reference for variables driven by user control and cockpit interaction.

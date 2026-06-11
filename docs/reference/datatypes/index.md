@@ -2,6 +2,7 @@
 title: Data Types
 layout: default
 parent: Reference
+nav_order: 1
 ---
 # Data Types
 #### Reference for the fundamental data types utilized in Funky Trees expressions.

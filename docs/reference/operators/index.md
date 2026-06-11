@@ -2,6 +2,7 @@
 title: Operators
 layout: default
 parent: Reference
+nav_order: 2
 ---
 # Operators
 #### Technical reference for mathematical and logical operators used in Funky Trees expressions.
