@@ -19,7 +19,7 @@ Documentation on the core data types supported in Funky Trees.
 Documentation on the core math and logic operators supported in Funky Trees.
 
 ### [Variables](./variables/)
-Documentation on the various information sources available. These include both built-in telemetry and custom defined variables.
+Documentation on the various information sources available. These include both built-in data and custom defined variables.
 
 ### [Functions](./functions/)
 Documentation on all mathematical and logical functions available, including trigonometric functions, logic functions, and real-time control tools.
