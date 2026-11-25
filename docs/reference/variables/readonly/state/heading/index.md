@@ -15,7 +15,7 @@ grand_parent: Read-only Variables
 Number
 
 ## Description
-The current compass heading of the aircraft.
+The current compass heading of the aircraft, in degrees. 0 refers to dead North.
 
 ## Range
-`0` to `360` degrees
+`-180` to `180` degrees
